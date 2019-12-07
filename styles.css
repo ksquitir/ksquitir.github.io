@@ -1,3 +1,40 @@
-blockquote {
-  font-style: italic
+.navbar {
+    font-size: 20px;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+.title {
+  font-size: 26px;
+  text-align: center;
+  font-weight: 800;
+}
+h2 {
+  font-size: 23px;
+  text-align: center;
+  font-weight: 400;
+}
+h3 {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+}
+h4 {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+img-circle {
+    border-radius: 50%;
 }
