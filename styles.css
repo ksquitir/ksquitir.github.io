@@ -5,24 +5,22 @@
     font-size: 20px;
 }
 .title {
-  font-size: 26px;
+  font-size: 23px;
   text-align: center;
   font-weight: 800;
 }
 h2 {
-  font-size: 23px;
+  font-size: 20px;
   text-align: center;
   font-weight: 400;
 }
 h3 {
   font-size: 18px;
-  font-style: italic;
-  font-weight: 400;
+  font-weight: 300;
 }
 h4 {
   font-size: 18px;
-  font-style: italic;
-  font-weight: 400;
+  font-weight: 300;
 }
 h5 {
   font-size: 16px;
